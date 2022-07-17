@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rentomojo/static/css/main.e6c13ad2.css",
+    "main.js": "/rentomojo/static/js/main.94565e65.js",
+    "index.html": "/rentomojo/index.html",
+    "main.e6c13ad2.css.map": "/rentomojo/static/css/main.e6c13ad2.css.map",
+    "main.94565e65.js.map": "/rentomojo/static/js/main.94565e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94565e65.js"
+  ]
+}
