@@ -1,4 +1,4 @@
-import {Admin,   Pagination,   Resource } from 'react-admin';
+import {Admin, Resource } from 'react-admin';
 import restProvider from 'ra-data-simple-rest';
 import GameList from './components/GameList';
 
